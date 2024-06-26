@@ -5,8 +5,11 @@ namespace SalesWebMVC {
     public class Program {
         public static void Main(string[] args) {
             var builder = WebApplication.CreateBuilder(args);
+            string _connectionString = builder.Configuration.GetConnectionString("SalesWebMVCContext") ?? 
+                                       throw new InvalidOperationException("Connection string 'SalesWebMVCContext' not found.");
             builder.Services.AddDbContext<SalesWebMVCContext>(options =>
-                options.UseSqlServer(builder.Configuration.GetConnectionString("SalesWebMVCContext") ?? throw new InvalidOperationException("Connection string 'SalesWebMVCContext' not found.")));
+                options.UseMySql(_connectionString, ServerVersion.AutoDetect(_connectionString), 
+                        options => options.MigrationsAssembly("SalesWebMVC")));
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
@@ -26,7 +29,7 @@ namespace SalesWebMVC {
             app.UseRouting();
 
             app.UseAuthorization();
-
+            
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
