@@ -85,6 +85,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+      "Id": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-slate.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-slate.css"
+    },
+    {
       "Id": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
