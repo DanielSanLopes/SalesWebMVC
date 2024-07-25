@@ -12,6 +12,7 @@ namespace SalesWebMVC.Data {
 
         public void Seed() {
             if (_context.Department.Any() || _context.Seller.Any() || _context.SalesRecord.Any()) {
+                Console.WriteLine("DB is already seeded");
                 return; //DB is already seeded
             }
 
