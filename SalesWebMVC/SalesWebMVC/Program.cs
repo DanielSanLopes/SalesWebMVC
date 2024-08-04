@@ -2,6 +2,9 @@
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.Extensions.DependencyInjection;
 using SalesWebMVC.Data;
+using SalesWebMVC.Services;
+
+
 namespace SalesWebMVC {
     public class Program {
         public static void Main(string[] args) {
@@ -18,8 +21,8 @@ namespace SalesWebMVC {
             
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
             builder.Services.AddScoped<SeedingService>();
+            builder.Services.AddScoped<SellerService>();
 
             var app = builder.Build();
 
@@ -52,11 +55,6 @@ namespace SalesWebMVC {
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
-
-
-        
-            
-
 
 
 
