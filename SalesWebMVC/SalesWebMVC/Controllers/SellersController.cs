@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using SalesWebMVC.Models;
 using SalesWebMVC.Services;
 
 namespace SalesWebMVC.Controllers {
@@ -14,5 +15,17 @@ namespace SalesWebMVC.Controllers {
             return View(list);
         }
 
+        public IActionResult Create() { 
+            return View();
+        }
+
+
+        [HttpPost] //Identifies method as POST
+        [ValidateAntiForgeryToken] //Prevents CSRF Attacks (When someone uses your logged session to send private data)
+        public IActionResult Create(Seller seller) {
+
+            _sellerService.Insert(seller);
+            return RedirectToAction(nameof(Index));
+        }
     }
 }

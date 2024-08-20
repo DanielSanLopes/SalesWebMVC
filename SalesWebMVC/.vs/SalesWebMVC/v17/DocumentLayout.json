@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\saleswebmvc\\saleswebmvc\\saleswebmvc\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\saleswebmvc\\saleswebmvc\\saleswebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\saleswebmvc\\saleswebmvc\\saleswebmvc\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\saleswebmvc\\saleswebmvc\\saleswebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\saleswebmvc\\saleswebmvc\\saleswebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Create.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Sellers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Create.cshtml",
+              "RelativeToolTip": "SalesWebMVC\\Views\\Sellers\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T03:18:03.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Index.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Sellers\\Index.cshtml",
               "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Index.cshtml",
               "RelativeToolTip": "SalesWebMVC\\Views\\Sellers\\Index.cshtml",
-              "ViewState": "AQIAAAcAAAAAAAAAAADwvw4AAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-04T21:42:53.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SellersController.cs",
               "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\Controllers\\SellersController.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Controllers\\SellersController.cs",
               "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\Controllers\\SellersController.cs",
               "RelativeToolTip": "SalesWebMVC\\Controllers\\SellersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T21:40:16.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\Program.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Program.cs",
@@ -69,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SellerService.cs",
               "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\Services\\SellerService.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Services\\SellerService.cs",
               "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\Services\\SellerService.cs",
               "RelativeToolTip": "SalesWebMVC\\Services\\SellerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T21:32:18.456Z",
               "EditorCaption": ""
