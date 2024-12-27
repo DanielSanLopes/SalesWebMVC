@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\saleswebmvc\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC.csproj|solutionrelative:services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\saleswebmvc\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC.csproj|solutionrelative:data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\saleswebmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D70A04CA-3E67-4A4A-8C93-8E4790EADE80}|SalesWebMVC.csproj|solutionrelative:models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,50 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SeedingService.cs",
-              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\Data\\SeedingService.cs",
-              "RelativeDocumentMoniker": "Data\\SeedingService.cs",
-              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\Data\\SeedingService.cs",
-              "RelativeToolTip": "Data\\SeedingService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowBUAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T04:14:42.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T04:14:37.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SellerService.cs",
-              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\Services\\SellerService.cs",
-              "RelativeDocumentMoniker": "Services\\SellerService.cs",
-              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\Services\\SellerService.cs",
-              "RelativeToolTip": "Services\\SellerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T04:13:19.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Seller.cs",
               "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\Models\\Seller.cs",
               "RelativeDocumentMoniker": "Models\\Seller.cs",
@@ -102,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Create.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Create.cshtml",
@@ -113,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Index.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Index.cshtml",
@@ -125,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "SellersController.cs",
               "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\Controllers\\SellersController.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\SalesWebMVC\\Controllers\\SellersController.cs",
@@ -137,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\Program.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\SalesWebMVC\\Program.cs",
@@ -149,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "SellerService.cs",
               "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\Services\\SellerService.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\SalesWebMVC\\Services\\SellerService.cs",

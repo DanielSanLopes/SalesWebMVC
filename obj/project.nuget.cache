@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZBd5rXj/5JY=",
+  "dgSpecHash": "gF2wlZMH8m0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+  "projectFilePath": "C:\\Users\\Danie\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Danie\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Danie\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
